@@ -34,15 +34,15 @@ PIN: 1111
 
 ## Array Methods
 In this project, various array methods are applied, including but not limited to:
-**map()**
-**filter()**
-**reduce()**
-**forEach()**
-**find()**
-**some()**
-**every()**
-**flat()**
-**flatMap()**
+**map()**,
+**filter()**,
+**reduce()**,
+**forEach()**,
+**find()**,
+**some()**,
+**every()**,
+**flat()**,
+**flatMap()** and
 **sort()**
 These methods are used to manipulate and handle the data efficiently within the application.
 
