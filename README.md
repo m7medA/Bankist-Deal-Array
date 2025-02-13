@@ -29,7 +29,7 @@ For security purposes, the app automatically logs out users after a period of in
 ## Usage
 Open the app in your browser.
 Log in with the sample account:
-Username: ma
+Username: ma , 
 PIN: 1111
 
 ## Array Methods
